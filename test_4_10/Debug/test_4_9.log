@@ -1,0 +1,11 @@
+﻿  contact.c
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(22,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(26,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(28,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(30,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(32,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(48,70): error C2146: 语法错误: 缺少“)”(在标识符“，”的前面)
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(48,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(48,10): message : 占位符和其参数预计 5 可变参数，但提供的却是 3 参数
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(48,10): message : 缺失的可变参数 4 为格式字符串“%12s”所需
+C:\Users\tan\Desktop\c语言\C语言小项目-通讯录实现（1）\test_4_9\contact.c(48,91): error C2059: 语法错误:“)”
